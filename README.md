@@ -2,7 +2,7 @@
 
 Meu nome é Richard Batista
 
--Estou estudando na alura
+-Estou estudando na Alura
 
 -Estou me desenvolvendo na linguagem JavaScript
 
